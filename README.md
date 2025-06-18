@@ -45,9 +45,9 @@ Optimized settings for recording or streaming Old School RuneScape (OSRS) using 
 ---
 
 ## Game Resolutions
-Here's a short list of resolutions.
-**Note:** The minimum resolution in OSRS is 765x503
-**My preference:** 960x540
+- Here's a short list of resolutions.
+- **Note:** The minimum resolution in OSRS is 765x503
+- **My preference:** 960x540
 
 | Width | Height |
 |-------|--------|
